@@ -1,2 +1,2 @@
 # logseq-clicker-counter
-LogSeq mechanical-style clicker plugin 
+Logseq mechanical-style clicker plugin 
